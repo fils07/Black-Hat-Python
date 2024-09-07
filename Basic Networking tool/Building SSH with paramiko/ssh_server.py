@@ -7,6 +7,7 @@ import threading
 CWD=os.path.dirname(os.path.realpath(__file__))
 print(CWD)
 HOSTKEY = paramiko.RSAKey(filename=os.path.join(CWD,'test_rsa.key'))
+# test_rsa.key is file provide by paramiko
 
 class Server(paramiko.ServerInterface):
     def __init__(self):
@@ -18,7 +19,7 @@ class Server(paramiko.ServerInterface):
         return paramiko.OPEN_FAILED_ADMINISTRATIVELY_PROHIBITED
 
     def check_auth_password(self,username,password):
-            if(username=='horla') and (password=='horla'):
+            if(username=='<username>') and (password=='<password>'):
                 return paramiko.AUTH_SUCCESSFUL
 if __name__=='__main__':
     server = '192.168.194.97'

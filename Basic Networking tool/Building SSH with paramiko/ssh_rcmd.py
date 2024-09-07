@@ -20,16 +20,15 @@ def ssh_command(ip,port,user,passwd,cmd):
                     client.close()
                     break
                 cmd_output = subprocess.check_output(shlex.split(cmd),shell=True)
+                ssh_session.send(cmd_output or 'okay')
             except Exception as e:
                 ssh_session.send(str(e))
         client.close()
 
 if __name__=='__main__':
     import getpass
-    #user=getpass.getuser()
-    user = 'horla'
+    user=getpass.getuser()
     password=getpass.getpass()
-    #password = 'horla'
 
     ip=input('Enter server IP :')
     port=input('Enter port :')
