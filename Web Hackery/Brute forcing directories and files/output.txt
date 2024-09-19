@@ -1,2 +1,0 @@
-200:http://testphp.vulnweb.com/CVS/ 
-200:http://testphp.vulnweb.com/admin/ 
