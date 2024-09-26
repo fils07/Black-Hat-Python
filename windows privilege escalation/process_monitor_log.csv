@@ -1,0 +1,477 @@
+CommandLine, Time, Executable, Parent PID, PID, User, Privileges
+"C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.1906.55.0_x64__8wekyb3d8bbwe\Calculator.exe" -ServerName:App.AppXsm3pg4n7er43kdh1qp4e79f1j7am68r8.mca , 20240925042113.383984+120 , C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.1906.55.0_x64__8wekyb3d8bbwe\Calculator.exe,772 , 7100 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+C:\Windows\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} , 20240925042118.866501+120 , C:\Windows\system32\DllHost.exe,772 , 6064 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240925042128.915582+120 , None,632 , 2684 , (None, 2, None) , N/A
+C:\Windows\System32\RuntimeBroker.exe -Embedding , 20240925042130.311676+120 , C:\Windows\System32\RuntimeBroker.exe,772 , 5712 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+"C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca , 20240925042130.383470+120 , C:\Windows\system32\backgroundTaskHost.exe,772 , 7500 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+"C:\Windows\system32\BackgroundTaskHost.exe" -ServerName:BackgroundTaskHost.WebAccountProvider , 20240925042133.846043+120 , C:\Windows\system32\BackgroundTaskHost.exe,772 , 2596 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+C:\Windows\System32\RuntimeBroker.exe -Embedding , 20240925042134.725847+120 , None,772 , 868 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+"BackgroundTransferHost.exe" -ServerName:BackgroundTransferHost.1 , 20240925042135.736147+120 , C:\Windows\system32\BackgroundTransferHost.exe,772 , 8132 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+C:\Windows\System32\RuntimeBroker.exe -Embedding , 20240925042136.142683+120 , C:\Windows\System32\RuntimeBroker.exe,772 , 8152 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240925042152.495280+120 , None,380 , 4892 , (None, 2, None) , N/A
+None , 20240925042155.152599+120 , None,632 , 2680 , (None, 2, None) , N/A
+None , 20240925042159.927930+120 , None,772 , 112 , (None, 2, None) , N/A
+None , 20240925042200.447799+120 , None,112 , 8008 , (None, 2, None) , N/A
+C:\Windows\System32\slui.exe -Embedding , 20240925042205.624323+120 , C:\Windows\System32\slui.exe,772 , 6576 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+taskhostw.exe , 20240925042258.965384+120 , C:\Windows\system32\taskhostw.exe,380 , 6388 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240925042259.809071+120 , None,632 , 7992 , (None, 2, None) , N/A
+None , 20240925042300.583171+120 , None,772 , 4268 , (None, 2, None) , N/A
+"C:\Windows\system32\BackgroundTaskHost.exe" -ServerName:BackgroundTaskHost.WebAccountProvider , 20240925042614.130510+120 , C:\Windows\system32\BackgroundTaskHost.exe,772 , 6452 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240925042629.562712+120 , None,380 , 3024 , (None, 2, None) , N/A
+None , 20240925042651.253610+120 , None,380 , 4688 , (None, 2, None) , N/A
+None , 20240925042651.799070+120 , None,772 , 6960 , (None, 2, None) , N/A
+None , 20240925042706.422836+120 , None,632 , 4704 , (None, 2, None) , N/A
+None , 20240925042707.142024+120 , None,632 , 7308 , (None, 2, None) , N/A
+None , 20240925043029.510515+120 , None,2604 , 3064 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240925043029.955160+120 , None,6940 , 3568 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240925043030.971939+120 , None,2604 , 4296 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240925043031.112195+120 , None,4296 , 6168 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240925043030.981835+120 , None,4296 , 6952 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240925043034.139240+120 , None,6392 , 2588 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240925043038.787294+120 , None,380 , 6244 , (None, 2, None) , N/A
+None , 20240925043043.842698+120 , None,772 , 1588 , (None, 2, None) , N/A
+None , 20240925043047.051640+120 , None,6568 , 4064 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240925043049.378574+120 , None,2604 , 3480 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240925043053.226376+120 , None,632 , 5000 , (None, 2, None) , N/A
+None , 20240925043055.628506+120 , None,7516 , 3704 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240925043100.040469+120 , None,772 , 6756 , (None, 2, None) , N/A
+None , 20240925043101.497038+120 , None,2604 , 2740 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240925043103.477046+120 , None,7940 , 1396 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240925043109.220910+120 , None,2604 , 6468 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240925043328.051192+120 , None,404 , 4296 , (None, 2, None) , N/A
+None , 20240925043330.075094+120 , None,7724 , 1724 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240925043332.423912+120 , None,5420 , 3436 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240925043333.482967+120 , None,4784 , 2184 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240925043334.629268+120 , None,3840 , 3816 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240925043338.408246+120 , None,2604 , 6788 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240925043338.439624+120 , None,2604 , 6988 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240925043340.545246+120 , None,900 , 6832 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240925043341.577077+120 , None,4784 , 1608 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240925043341.948024+120 , None,6612 , 3480 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+CommandLine, Time, Executable, Parent PID, PID, User, Privileges
+None , 20240925043831.734379+120 , None,772 , 3024 , (None, 2, None) , N/A
+taskhostw.exe Install $(Arg0) , 20240925043831.847901+120 , None,380 , 5644 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240925043831.806642+120 , None,380 , 7052 , (None, 2, None) , N/A
+None , 20240925043832.780813+120 , None,380 , 6468 , (None, 2, None) , N/A
+None , 20240925043835.139717+120 , None,380 , 7232 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240925043836.828618+120 , None,380 , 1864 , (None, 2, None) , N/A
+None , 20240925043837.205255+120 , None,2680 , 2388 , (None, 2, None) , N/A
+None , 20240925043836.814355+120 , None,380 , 2680 , (None, 2, None) , N/A
+None , 20240925043837.719137+120 , None,380 , 3776 , (None, 2, None) , N/A
+None , 20240925043836.773437+120 , None,632 , 6756 , (None, 2, None) , N/A
+None , 20240925043838.634215+120 , None,772 , 3604 , (None, 2, None) , N/A
+None , 20240925043837.810945+120 , None,380 , 7264 , (None, 2, None) , N/A
+None , 20240925043841.524076+120 , None,3776 , 4848 , (None, 2, None) , N/A
+None , 20240925043841.533262+120 , None,7264 , 5656 , (None, 2, None) , N/A
+None , 20240925043901.365521+120 , None,1864 , 2020 , (None, 2, None) , N/A
+None , 20240925043901.503209+120 , None,1864 , 3844 , (None, 2, None) , N/A
+None , 20240925043901.364861+120 , None,6468 , 6484 , (None, 2, None) , N/A
+None , 20240925043901.670914+120 , None,6192 , 4048 , (None, 2, None) , N/A
+None , 20240925043901.585880+120 , None,6468 , 6192 , (None, 2, None) , N/A
+None , 20240925043902.822636+120 , None,6484 , 1768 , (None, 2, None) , N/A
+None , 20240925043903.349256+120 , None,3844 , 8044 , (None, 2, None) , N/A
+None , 20240925043903.776557+120 , None,2020 , 3936 , (None, 2, None) , N/A
+None , 20240925043920.783720+120 , None,6192 , 7100 , (None, 2, None) , N/A
+None , 20240925043924.491281+120 , None,632 , 5900 , (None, 2, None) , N/A
+None , 20240925043928.037986+120 , None,7100 , 2588 , (None, 2, None) , N/A
+None , 20240925043934.549139+120 , None,6484 , 2964 , (None, 2, None) , N/A
+None , 20240925044005.688851+120 , None,428 , 3956 , (None, 2, None) , N/A
+None , 20240925044005.702837+120 , None,3956 , 5840 , (None, 2, None) , N/A
+None , 20240925044006.367269+120 , None,632 , 5952 , (None, 2, None) , N/A
+None , 20240925044319.819261+120 , None,380 , 1440 , (None, 2, None) , N/A
+None , 20240925044453.008677+120 , None,632 , 2888 , (None, 2, None) , N/A
+None , 20240925044605.600649+120 , None,7100 , 6168 , (None, 2, None) , N/A
+None , 20240925044615.389782+120 , None,7100 , 6864 , (None, 2, None) , N/A
+None , 20240925044631.914494+120 , None,7100 , 2740 , (None, 2, None) , N/A
+None , 20240925044632.545753+120 , None,7100 , 4924 , (None, 2, None) , N/A
+None , 20240925044633.418418+120 , None,7100 , 5468 , (None, 2, None) , N/A
+None , 20240925044647.441315+120 , None,7100 , 7808 , (None, 2, None) , N/A
+None , 20240925044649.670617+120 , None,7100 , 6908 , (None, 2, None) , N/A
+None , 20240925044652.119769+120 , None,7100 , 4704 , (None, 2, None) , N/A
+None , 20240925044653.697820+120 , None,7100 , 2176 , (None, 2, None) , N/A
+None , 20240925044738.196873+120 , None,7100 , 6252 , (None, 2, None) , N/A
+None , 20240925044739.217490+120 , None,7100 , 360 , (None, 2, None) , N/A
+None , 20240925044744.213252+120 , None,7100 , 2376 , (None, 2, None) , N/A
+None , 20240925044749.833047+120 , None,7100 , 408 , (None, 2, None) , N/A
+None , 20240925044754.978263+120 , None,7100 , 8120 , (None, 2, None) , N/A
+None , 20240925044801.484172+120 , None,7100 , 2300 , (None, 2, None) , N/A
+None , 20240925044802.864546+120 , None,7100 , 2652 , (None, 2, None) , N/A
+None , 20240925044808.019211+120 , None,7100 , 7068 , (None, 2, None) , N/A
+None , 20240925044818.531542+120 , None,7100 , 7984 , (None, 2, None) , N/A
+None , 20240925044820.054993+120 , None,7100 , 780 , (None, 2, None) , N/A
+None , 20240925044820.777423+120 , None,7100 , 6560 , (None, 2, None) , N/A
+None , 20240925044829.827568+120 , None,7100 , 6852 , (None, 2, None) , N/A
+None , 20240925044834.488477+120 , None,632 , 900 , (None, 2, None) , N/A
+"C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe" -ServerName:ShellFeedsUI.AppX88fpyyrd21w8wqe62wzsjh5agex7tf1e.mca , 20240925044837.838489+120 , None,772 , 6708 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+CommandLine, Time, Executable, Parent PID, PID, User, Privileges
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926051222.438381+120 , C:\Windows\system32\conhost.exe,6548 , 3244 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+C:\Users\lehorla\AppData\Local\Microsoft\OneDrive\OneDriveStandaloneUpdater.exe /reporting , 20240926051225.679457+120 , C:\Users\lehorla\AppData\Local\Microsoft\OneDrive\OneDriveStandaloneUpdater.exe,396 , 5512 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/origin/main refs/remotes/origin/main , 20240926051226.264790+120 , None,2292 , 6592 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+C:\Users\lehorla\AppData\Local\Microsoft\OneDrive\OneDriveStandaloneUpdater.exe , 20240926051225.678381+120 , C:\Users\lehorla\AppData\Local\Microsoft\OneDrive\OneDriveStandaloneUpdater.exe,396 , 6724 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=data_decoder.mojom.DataDecoderService --lang=fr --service-sandbox-type=service --string-annotations=is-enterprise-managed=no --field-trial-handle=5368,i,10429386024063121222,12529014306556427185,262144 --variations-seed-version --mojo-platform-channel-handle=5356 /prefetch:8 , 20240926051235.842004+120 , C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,5524 , 3284 , ('DESKTOP-JCMNI29', 0, 'lehorla') , 
+C:\Windows\system32\ApplicationFrameHost.exe -Embedding , 20240926051318.234662+120 , None,764 , 3848 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.1906.55.0_x64__8wekyb3d8bbwe\Calculator.exe" -ServerName:App.AppXsm3pg4n7er43kdh1qp4e79f1j7am68r8.mca , 20240926051318.238399+120 , None,764 , 5844 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+C:\Windows\System32\RuntimeBroker.exe -Embedding , 20240926051335.448399+120 , None,764 , 6652 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926051340.801732+120 , None,2384 , 6884 , (None, 2, None) , N/A
+None , 20240926051342.684540+120 , None,2384 , 6588 , (None, 2, None) , N/A
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926051349.242988+120 , None,6516 , 2516 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main , 20240926051349.174771+120 , C:\Program Files\Git\cmd\git.exe,2292 , 6516 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" config --get commit.template , 20240926051349.117904+120 , None,2292 , 6696 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+git.exe config --get commit.template , 20240926051349.706045+120 , C:\Program Files\Git\mingw64\bin\git.exe,6696 , 4636 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926051349.498453+120 , C:\Windows\system32\conhost.exe,6696 , 6884 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" rev-parse refs/remotes/origin/main , 20240926051350.327031+120 , None,2292 , 812 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926051351.075735+120 , C:\Program Files\Git\cmd\git.exe,2292 , 4496 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+git.exe status -z -uall , 20240926051351.286694+120 , C:\Program Files\Git\mingw64\bin\git.exe,4496 , 5504 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926051351.091847+120 , C:\Windows\system32\conhost.exe,4496 , 6516 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926051355.264273+120 , None,2384 , 6952 , (None, 2, None) , N/A
+None , 20240926051356.156861+120 , None,2384 , 2644 , (None, 2, None) , N/A
+C:\Windows\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} , 20240926051356.206622+120 , None,764 , 4448 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" config --get commit.template , 20240926051400.910554+120 , C:\Program Files\Git\cmd\git.exe,2292 , 2952 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926051400.951849+120 , C:\Windows\system32\conhost.exe,2952 , 3324 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main , 20240926051400.935512+120 , C:\Program Files\Git\cmd\git.exe,2292 , 3652 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+git.exe status -z -uall , 20240926051402.296302+120 , C:\Program Files\Git\mingw64\bin\git.exe,6660 , 3556 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926051402.196482+120 , C:\Program Files\Git\cmd\git.exe,2292 , 6660 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926051402.207648+120 , C:\Windows\system32\conhost.exe,6660 , 7048 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926051405.532491+120 , None,764 , 6444 , (None, 2, None) , N/A
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926051409.897987+120 , C:\Windows\system32\conhost.exe,6948 , 6920 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926051410.736579+120 , None,2344 , 2052 , (None, 2, None) , N/A
+None , 20240926051411.411217+120 , None,2052 , 4612 , (None, 2, None) , N/A
+None , 20240926051413.666407+120 , None,2344 , 3324 , (None, 2, None) , N/A
+None , 20240926051413.687653+120 , None,3324 , 4056 , (None, 2, None) , N/A
+None , 20240926051415.829072+120 , None,628 , 1676 , (None, 2, None) , N/A
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926051416.621506+120 , C:\Windows\system32\conhost.exe,6712 , 5148 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main , 20240926051418.919830+120 , None,2292 , 4708 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Users\lehorla\AppData\Local\Programs\Microsoft VS Code\Code.exe" "c:\Users\lehorla\AppData\Local\Programs\Microsoft VS Code\resources\app\node_modules.asar\node-pty\lib\conpty_console_list_agent" 5636 , 20240926051419.432467+120 , C:\Users\lehorla\AppData\Local\Programs\Microsoft VS Code\Code.exe,6868 , 3220 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926051420.885439+120 , C:\Windows\system32\conhost.exe,6336 , 3952 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+CommandLine, Time, Executable, Parent PID, PID, User, Privileges
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926051850.314421+120 , C:\Windows\system32\conhost.exe,8100 , 4140 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main , 20240926051850.172672+120 , C:\Program Files\Git\cmd\git.exe,2292 , 5868 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926051850.196938+120 , C:\Windows\system32\conhost.exe,5868 , 7260 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926051852.343386+120 , C:\Windows\system32\conhost.exe,3808 , 2692 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+git.exe status -z -uall , 20240926051852.428820+120 , C:\Program Files\Git\mingw64\bin\git.exe,3808 , 3616 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926051852.333849+120 , C:\Program Files\Git\cmd\git.exe,2292 , 3808 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926051907.378787+120 , None,3412 , 4712 , (None, 2, None) , N/A
+"C:\Program Files\Git\cmd\git.exe" for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main , 20240926051910.205093+120 , C:\Program Files\Git\cmd\git.exe,2292 , 2116 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+git.exe status -z -uall , 20240926051911.868546+120 , C:\Program Files\Git\mingw64\bin\git.exe,1912 , 1876 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926051911.698312+120 , C:\Program Files\Git\cmd\git.exe,2292 , 1912 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926051911.717458+120 , C:\Windows\system32\conhost.exe,1912 , 6164 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926051914.545387+120 , None,3412 , 6580 , (None, 2, None) , N/A
+git.exe status -z -uall , 20240926051918.341515+120 , C:\Program Files\Git\mingw64\bin\git.exe,7720 , 2516 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926051918.239799+120 , C:\Windows\system32\conhost.exe,7720 , 7628 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926051924.860438+120 , C:\Program Files\Git\cmd\git.exe,2292 , 7676 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+C:\Windows\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} , 20240926051952.694361+120 , C:\Windows\system32\DllHost.exe,764 , 580 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926052003.662157+120 , None,1620 , 3012 , (None, 2, None) , N/A
+None , 20240926052007.568322+120 , None,396 , 388 , (None, 2, None) , N/A
+None , 20240926052009.649294+120 , None,764 , 6272 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+"C:\Program Files\Git\cmd\git.exe" config --get commit.template , 20240926052018.650635+120 , C:\Program Files\Git\cmd\git.exe,2292 , 5252 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926052019.660107+120 , C:\Program Files\Git\cmd\git.exe,2292 , 5728 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926052019.674747+120 , C:\Windows\system32\conhost.exe,5728 , 6912 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+git.exe status -z -uall , 20240926052019.776743+120 , C:\Program Files\Git\mingw64\bin\git.exe,5728 , 7500 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926052031.259890+120 , None,7736 , 7448 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/origin/main refs/remotes/origin/main , 20240926052031.177262+120 , C:\Program Files\Git\cmd\git.exe,2292 , 7736 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" ls-files --stage -- "C:\Users\lehorla\Documents\BHP\Black-Hat-Python\windows privilege escalation\bhservice.py" , 20240926052036.884167+120 , C:\Program Files\Git\cmd\git.exe,2292 , 1928 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+git.exe show --textconv ":windows privilege escalation/bhservice.py" , 20240926052036.914378+120 , C:\Program Files\Git\mingw64\bin\git.exe,7788 , 4636 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926052036.680489+120 , C:\Windows\system32\conhost.exe,7788 , 5800 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" show --textconv ":windows privilege escalation/bhservice.py" , 20240926052036.629116+120 , C:\Program Files\Git\cmd\git.exe,2292 , 7788 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926052038.851893+120 , C:\Windows\system32\conhost.exe,7164 , 1472 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926052041.982821+120 , None,3412 , 388 , (None, 2, None) , N/A
+None , 20240926052046.432605+120 , None,3412 , 3808 , (None, 2, None) , N/A
+None , 20240926052053.804886+120 , None,3412 , 6452 , (None, 2, None) , N/A
+None , 20240926052054.684634+120 , None,3412 , 2640 , (None, 2, None) , N/A
+"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=asset_store.mojom.AssetStoreService --lang=fr --service-sandbox-type=asset_store_service --string-annotations=is-enterprise-managed=no --field-trial-handle=6240,i,10429386024063121222,12529014306556427185,262144 --variations-seed-version --mojo-platform-channel-handle=3172 /prefetch:8 , 20240926052056.915601+120 , C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,5524 , 408 , ('DESKTOP-JCMNI29', 0, 'lehorla') , 
+"C:\Program Files\Git\cmd\git.exe" for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main , 20240926052058.635936+120 , C:\Program Files\Git\cmd\git.exe,2292 , 2416 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926052106.868591+120 , C:\Windows\system32\conhost.exe,8180 , 6252 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926052107.616054+120 , C:\Program Files\Git\cmd\git.exe,2292 , 5280 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926052107.631666+120 , C:\Windows\system32\conhost.exe,5280 , 6584 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926052109.014534+120 , None,3412 , 4452 , (None, 2, None) , N/A
+None , 20240926052115.071076+120 , None,3412 , 7720 , (None, 2, None) , N/A
+None , 20240926052116.111809+120 , None,3412 , 7424 , (None, 2, None) , N/A
+None , 20240926052117.054848+120 , None,3412 , 7360 , (None, 2, None) , N/A
+None , 20240926052120.926775+120 , None,3412 , 6680 , (None, 2, None) , N/A
+None , 20240926052121.899799+120 , None,3412 , 7144 , (None, 2, None) , N/A
+"C:\Program Files\Git\cmd\git.exe" config --get commit.template , 20240926052125.535018+120 , None,2292 , 7528 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926052126.577975+120 , C:\Program Files\Git\cmd\git.exe,2292 , 1164 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926052126.590968+120 , C:\Windows\system32\conhost.exe,1164 , 4820 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926052127.557588+120 , C:\Windows\system32\conhost.exe,6296 , 4264 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/origin/main refs/remotes/origin/main , 20240926052129.306142+120 , None,2292 , 7988 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" rev-parse refs/remotes/origin/main , 20240926052133.368773+120 , C:\Program Files\Git\cmd\git.exe,2292 , 3436 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926052134.336663+120 , C:\Program Files\Git\cmd\git.exe,2292 , 3148 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926052134.442778+120 , C:\Windows\system32\conhost.exe,3148 , 5252 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+git.exe status -z -uall , 20240926052134.554511+120 , C:\Program Files\Git\mingw64\bin\git.exe,3148 , 7596 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=data_decoder.mojom.DataDecoderService --lang=fr --service-sandbox-type=service --string-annotations=is-enterprise-managed=no --field-trial-handle=3808,i,10429386024063121222,12529014306556427185,262144 --variations-seed-version --mojo-platform-channel-handle=5924 /prefetch:8 , 20240926052135.631117+120 , None,5524 , 5068 , ('DESKTOP-JCMNI29', 0, 'lehorla') , 
+"C:\Program Files\Git\cmd\git.exe" for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/origin/main refs/remotes/origin/main , 20240926052136.540527+120 , C:\Program Files\Git\cmd\git.exe,2292 , 2720 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0xffffffff -ForceV1 , 20240926052136.762127+120 , None,2720 , 7812 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926052141.937002+120 , None,3412 , 4816 , (None, 2, None) , N/A
+None , 20240926052143.785622+120 , None,3412 , 6812 , (None, 2, None) , N/A
+None , 20240926052148.380612+120 , None,3412 , 8112 , (None, 2, None) , N/A
+None , 20240926052148.844531+120 , None,3412 , 7308 , (None, 2, None) , N/A
+None , 20240926052202.898843+120 , None,3412 , 6960 , (None, 2, None) , N/A
+None , 20240926052203.990851+120 , None,3412 , 6864 , (None, 2, None) , N/A
+None , 20240926052205.212127+120 , None,3412 , 4344 , (None, 2, None) , N/A
+None , 20240926052207.319417+120 , None,3412 , 7480 , (None, 2, None) , N/A
+"C:\Program Files\WindowsApps\Microsoft.WindowsStore_11910.1002.5.0_x64__8wekyb3d8bbwe\WinStore.App.exe" -ServerName:App.AppXc75wvwned5vhz4xyxxecvgdjhdkgsdza.mca , 20240926052225.066919+120 , C:\Program Files\WindowsApps\Microsoft.WindowsStore_11910.1002.5.0_x64__8wekyb3d8bbwe\WinStore.App.exe,764 , 2768 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+C:\Windows\System32\RuntimeBroker.exe -Embedding , 20240926052232.866520+120 , C:\Windows\System32\RuntimeBroker.exe,764 , 7924 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.1906.55.0_x64__8wekyb3d8bbwe\Calculator.exe" -ServerName:App.AppXsm3pg4n7er43kdh1qp4e79f1j7am68r8.mca , 20240926052244.480158+120 , C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.1906.55.0_x64__8wekyb3d8bbwe\Calculator.exe,764 , 2924 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+git.exe status -z -uall , 20240926052249.536514+120 , C:\Program Files\Git\mingw64\bin\git.exe,5728 , 2400 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926052249.446875+120 , C:\Program Files\Git\cmd\git.exe,2292 , 5728 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+git.exe status -z -uall , 20240926052255.765576+120 , C:\Program Files\Git\mingw64\bin\git.exe,4376 , 2072 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+CommandLine, Time, Executable, Parent PID, PID, User, Privileges
+"C:\Program Files\Git\cmd\git.exe" config --get commit.template , 20240926053042.467977+120 , C:\Program Files\Git\cmd\git.exe,2292 , 6732 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926053043.958178+120 , C:\Program Files\Git\cmd\git.exe,2292 , 1676 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926053043.970234+120 , C:\Windows\system32\conhost.exe,1676 , 1840 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main , 20240926053046.373815+120 , C:\Program Files\Git\cmd\git.exe,2292 , 1688 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+git.exe for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main , 20240926053047.293105+120 , None,1688 , 5500 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926053049.956182+120 , None,4688 , 5160 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926053051.556856+120 , None,6856 , 4712 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" config --local branch.main.vscode-merge-base , 20240926053050.904631+120 , C:\Program Files\Git\cmd\git.exe,2292 , 6856 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926053053.306309+120 , None,5160 , 4100 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240926053057.889302+120 , None,7272 , 1072 , (None, 2, None) , N/A
+None , 20240926053057.500312+120 , None,7852 , 7272 , (None, 2, None) , N/A
+None , 20240926053056.893800+120 , None,628 , 7852 , (None, 2, None) , N/A
+None , 20240926053102.921833+120 , None,628 , 7976 , (None, 2, None) , N/A
+None , 20240926053109.275287+120 , None,4688 , 2916 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240926053110.800665+120 , None,2916 , 3596 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240926053112.826514+120 , None,628 , 2512 , (None, 2, None) , N/A
+None , 20240926053113.991564+120 , None,2512 , 6812 , (None, 2, None) , N/A
+None , 20240926053115.318630+120 , None,6812 , 1708 , (None, 2, None) , N/A
+"C:\Program Files\Git\cmd\git.exe" for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main , 20240926053120.775963+120 , C:\Program Files\Git\cmd\git.exe,2292 , 1040 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" config --get commit.template , 20240926053120.761398+120 , C:\Program Files\Git\cmd\git.exe,2292 , 6448 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926053120.816363+120 , C:\Windows\system32\conhost.exe,1040 , 7628 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+git.exe status -z -uall , 20240926053123.818934+120 , C:\Program Files\Git\mingw64\bin\git.exe,8080 , 5748 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926053123.691167+120 , C:\Windows\system32\conhost.exe,8080 , 660 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926053123.676234+120 , C:\Program Files\Git\cmd\git.exe,2292 , 8080 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926053132.288294+120 , C:\Windows\system32\conhost.exe,4944 , 3372 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926053133.236108+120 , C:\Windows\system32\conhost.exe,7304 , 6632 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+C:\Windows\System32\smartscreen.exe -Embedding , 20240926053143.570012+120 , C:\Windows\System32\smartscreen.exe,764 , 5176 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+C:\Windows\system32\OpenWith.exe -Embedding , 20240926053155.899049+120 , None,764 , 2940 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+C:\Windows\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} , 20240926053158.319052+120 , C:\Windows\system32\DllHost.exe,764 , 3736 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+C:\Windows\system32\OpenWith.exe -Embedding , 20240926053212.811783+120 , None,764 , 4360 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Users\lehorla\AppData\Local\Programs\Microsoft VS Code\Code.exe" "C:\Users\lehorla\AppData\Local\Temp\Temp1_bhvulnservice.zip\vulnservice.py" , 20240926053222.439913+120 , None,4360 , 2256 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Users\lehorla\AppData\Local\Programs\Microsoft VS Code\Code.exe" --type=crashpad-handler --user-data-dir=C:\Users\lehorla\AppData\Roaming\Code /prefetch:4 --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=C:\Users\lehorla\AppData\Roaming\Code\Crashpad --url=appcenter://code?aid=a4e3233c-699c-46ec-b4f4-9c2a77254662&uid=b44c976b-0ad8-4f0f-8d43-ea90f3475d9e&iid=b44c976b-0ad8-4f0f-8d43-ea90f3475d9e&sid=b44c976b-0ad8-4f0f-8d43-ea90f3475d9e --annotation=_companyName=Microsoft --annotation=_productName=VSCode --annotation=_version=1.93.1 --annotation=plat=Win64 --annotation=prod=Electron --annotation=ver=30.4.0 --initial-client-data=0x3f4,0x3f8,0x3d4,0x3fc,0x404,0x7ff7b5bbce18,0x7ff7b5bbce24,0x7ff7b5bbce30 , 20240926053225.919686+120 , C:\Users\lehorla\AppData\Local\Programs\Microsoft VS Code\Code.exe,2256 , 3076 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Users\lehorla\AppData\Local\Programs\Microsoft VS Code\Code.exe" --type=gpu-process --user-data-dir="C:\Users\lehorla\AppData\Roaming\Code" --gpu-preferences=WAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAEAAAA4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --field-trial-handle=1704,i,14463610889964325871,11680353215834942672,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --mojo-platform-channel-handle=1684 /prefetch:2 , 20240926053227.582633+120 , None,2256 , 6244 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Users\lehorla\AppData\Local\Programs\Microsoft VS Code\Code.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --user-data-dir="C:\Users\lehorla\AppData\Roaming\Code" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial-handle=1944,i,14463610889964325871,11680353215834942672,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --mojo-platform-channel-handle=1940 /prefetch:3 , 20240926053228.861678+120 , C:\Users\lehorla\AppData\Local\Programs\Microsoft VS Code\Code.exe,2256 , 3692 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0xffffffff -ForceV1 , 20240926053238.381466+120 , None,7880 , 3436 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0xffffffff -ForceV1 , 20240926053238.199853+120 , None,7144 , 5148 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main , 20240926053238.022685+120 , C:\Program Files\Git\cmd\git.exe,2292 , 7144 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" config --get commit.template , 20240926053238.007760+120 , C:\Program Files\Git\cmd\git.exe,2292 , 7880 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+git.exe config --get commit.template , 20240926053239.431664+120 , None,7880 , 3204 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926053240.499888+120 , C:\Windows\system32\conhost.exe,996 , 6652 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926053240.488647+120 , C:\Program Files\Git\cmd\git.exe,2292 , 996 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926053241.149113+120 , None,1648 , 7248 , (None, 2, None) , N/A
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926053249.084977+120 , C:\Program Files\Git\cmd\git.exe,2292 , 1768 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926053250.842111+120 , None,396 , 2140 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240926053253.462846+120 , None,628 , 5240 , (None, 2, None) , N/A
+"C:\Program Files\Git\cmd\git.exe" config --get commit.template , 20240926053255.561925+120 , C:\Program Files\Git\cmd\git.exe,2292 , 7536 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926053256.406409+120 , C:\Program Files\Git\cmd\git.exe,2292 , 3156 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+git.exe status -z -uall , 20240926053256.547616+120 , C:\Program Files\Git\mingw64\bin\git.exe,3156 , 3276 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926053256.419175+120 , C:\Windows\system32\conhost.exe,3156 , 4160 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main , 20240926053303.283904+120 , C:\Program Files\Git\cmd\git.exe,2292 , 1492 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926053305.774957+120 , C:\Windows\system32\conhost.exe,7420 , 4524 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+git.exe status -z -uall , 20240926053306.009385+120 , C:\Program Files\Git\mingw64\bin\git.exe,7420 , 7276 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926053305.748645+120 , C:\Program Files\Git\cmd\git.exe,2292 , 7420 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=data_decoder.mojom.DataDecoderService --lang=fr --service-sandbox-type=service --string-annotations=is-enterprise-managed=no --field-trial-handle=5348,i,10429386024063121222,12529014306556427185,262144 --variations-seed-version --mojo-platform-channel-handle=5928 /prefetch:8 , 20240926053307.336984+120 , None,5524 , 2208 , ('DESKTOP-JCMNI29', 0, 'lehorla') , 
+"C:\Program Files\Git\cmd\git.exe" config --local branch.main.vscode-merge-base , 20240926053311.252309+120 , C:\Program Files\Git\cmd\git.exe,2292 , 6748 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926053314.034670+120 , None,1648 , 700 , (None, 2, None) , N/A
+"C:\Program Files\Windows NT\Accessories\WORDPAD.EXE" "C:\Users\lehorla\AppData\Local\Temp\Temp1_bhvulnservice.zip\bhservice.rtf" , 20240926053318.471730+120 , None,3232 , 2812 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926053319.783177+120 , None,1620 , 7640 , (None, 2, None) , N/A
+None , 20240926053321.782403+120 , None,396 , 3488 , (None, 2, None) , N/A
+"C:\Program Files\Git\cmd\git.exe" for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main , 20240926053323.538919+120 , C:\Program Files\Git\cmd\git.exe,2292 , 4412 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXxw3e32mpkfkfbh0tznpwwqfw96t0tfx6.mca , 20240926053324.178330+120 , None,764 , 4492 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca , 20240926053325.242056+120 , None,764 , 2728 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926053339.121626+120 , C:\Windows\system32\conhost.exe,7284 , 5012 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+C:\Windows\system32\svchost.exe -k PrintWorkflow , 20240926053341.093310+120 , C:\Windows\system32\svchost.exe,628 , 7624 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+C:\Windows\System32\RuntimeBroker.exe -Embedding , 20240926053347.600306+120 , C:\Windows\System32\RuntimeBroker.exe,764 , 7724 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Windows\system32\BackgroundTaskHost.exe" -ServerName:BackgroundTaskHost.WebAccountProvider , 20240926053358.692159+120 , C:\Windows\system32\BackgroundTaskHost.exe,764 , 5500 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+C:\Windows\System32\RuntimeBroker.exe -Embedding , 20240926053400.973217+120 , C:\Windows\System32\RuntimeBroker.exe,764 , 7180 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main , 20240926053452.171226+120 , C:\Program Files\Git\cmd\git.exe,2292 , 1768 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926053452.642519+120 , C:\Windows\system32\conhost.exe,6768 , 6548 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+git.exe status -z -uall , 20240926053453.910273+120 , C:\Program Files\Git\mingw64\bin\git.exe,1224 , 1144 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926053453.823111+120 , C:\Program Files\Git\cmd\git.exe,2292 , 1224 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926053453.832742+120 , C:\Windows\system32\conhost.exe,1224 , 6460 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926053501.390534+120 , C:\Windows\system32\conhost.exe,7788 , 4524 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926053506.521095+120 , C:\Program Files\Git\cmd\git.exe,2292 , 1840 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926053506.531011+120 , C:\Windows\system32\conhost.exe,1840 , 4644 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+git.exe status -z -uall , 20240926053506.623472+120 , C:\Program Files\Git\mingw64\bin\git.exe,1840 , 6896 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca , 20240926053511.131744+120 , C:\Windows\system32\backgroundTaskHost.exe,764 , 6584 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+git.exe status -z -uall , 20240926053513.058935+120 , C:\Program Files\Git\mingw64\bin\git.exe,5328 , 2384 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926053512.934645+120 , C:\Windows\system32\conhost.exe,5328 , 3272 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926053512.925381+120 , C:\Program Files\Git\cmd\git.exe,2292 , 5328 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926053519.371023+120 , C:\Program Files\Git\cmd\git.exe,2292 , 6256 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926053519.381860+120 , C:\Windows\system32\conhost.exe,6256 , 7416 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main , 20240926053520.362419+120 , C:\Program Files\Git\cmd\git.exe,2292 , 5372 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926053526.012621+120 , C:\Windows\system32\conhost.exe,6300 , 2872 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926053526.635115+120 , C:\Program Files\Git\cmd\git.exe,2292 , 2008 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+git.exe status -z -uall , 20240926053527.025658+120 , C:\Program Files\Git\mingw64\bin\git.exe,2008 , 3488 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main , 20240926053528.282768+120 , C:\Program Files\Git\cmd\git.exe,2292 , 4992 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926053533.840499+120 , C:\Windows\system32\conhost.exe,6612 , 5980 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926053533.830562+120 , C:\Program Files\Git\cmd\git.exe,2292 , 6612 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca , 20240926053548.229779+120 , C:\Windows\system32\backgroundTaskHost.exe,764 , 8148 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926053551.204649+120 , C:\Windows\system32\conhost.exe,7564 , 7520 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926053552.180875+120 , C:\Windows\system32\conhost.exe,8132 , 3140 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/origin/main refs/remotes/origin/main , 20240926053558.707508+120 , C:\Program Files\Git\cmd\git.exe,2292 , 304 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+CommandLine, Time, Executable, Parent PID, PID, User, Privileges
+None , 20240926060345.361769+120 , None,628 , 7636 , (None, 2, None) , N/A
+None , 20240926060346.461154+120 , None,7636 , 3308 , (None, 2, None) , N/A
+None , 20240926060346.531286+120 , None,3308 , 6476 , (None, 2, None) , N/A
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926060410.157938+120 , C:\Windows\system32\conhost.exe,7192 , 1764 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=data_decoder.mojom.DataDecoderService --lang=fr --service-sandbox-type=service --string-annotations=is-enterprise-managed=no --field-trial-handle=4148,i,10429386024063121222,12529014306556427185,262144 --variations-seed-version --mojo-platform-channel-handle=5184 /prefetch:8 , 20240926060428.717211+120 , C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,5524 , 4932 , ('DESKTOP-JCMNI29', 0, 'lehorla') , 
+"C:\Program Files\Git\cmd\git.exe" config --get commit.template , 20240926060431.403023+120 , C:\Program Files\Git\cmd\git.exe,2292 , 4788 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926060432.277352+120 , C:\Windows\system32\conhost.exe,7660 , 6512 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+git.exe status -z -uall , 20240926060432.376327+120 , C:\Program Files\Git\mingw64\bin\git.exe,7660 , 6792 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926060433.551618+120 , C:\Windows\system32\conhost.exe,3788 , 2020 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" rev-parse refs/remotes/origin/main , 20240926060438.502114+120 , C:\Program Files\Git\cmd\git.exe,2292 , 5232 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926060439.045388+120 , C:\Windows\system32\conhost.exe,7760 , 2512 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+git.exe status -z -uall , 20240926060439.457385+120 , C:\Program Files\Git\mingw64\bin\git.exe,7760 , 3132 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main , 20240926060440.477119+120 , C:\Program Files\Git\cmd\git.exe,2292 , 4540 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=data_decoder.mojom.DataDecoderService --lang=fr --service-sandbox-type=service --string-annotations=is-enterprise-managed=no --field-trial-handle=5904,i,10429386024063121222,12529014306556427185,262144 --variations-seed-version --mojo-platform-channel-handle=5116 /prefetch:8 , 20240926060449.702215+120 , None,5524 , 7880 , ('DESKTOP-JCMNI29', 0, 'lehorla') , 
+None , 20240926060540.413194+120 , None,628 , 4896 , (None, 2, None) , N/A
+"C:\Windows\system32\BackgroundTaskHost.exe" -ServerName:BackgroundTaskHost.WebAccountProvider , 20240926060540.894366+120 , C:\Windows\system32\BackgroundTaskHost.exe,764 , 5672 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926060545.118336+120 , None,628 , 7900 , (None, 2, None) , N/A
+None , 20240926060546.257913+120 , None,4988 , 2944 , (None, 2, None) , N/A
+None , 20240926060546.182329+120 , None,7900 , 4988 , (None, 2, None) , N/A
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926060555.127669+120 , C:\Windows\system32\conhost.exe,652 , 3564 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926060601.465732+120 , C:\Windows\system32\conhost.exe,8096 , 3488 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926060601.446639+120 , C:\Program Files\Git\cmd\git.exe,2292 , 8096 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926060636.451235+120 , None,7812 , 5712 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240926060637.256515+120 , None,5712 , 1320 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926060721.951258+120 , C:\Windows\system32\conhost.exe,212 , 1912 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+git.exe status -z -uall , 20240926060727.480516+120 , C:\Program Files\Git\mingw64\bin\git.exe,7384 , 5000 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926060727.413020+120 , C:\Windows\system32\conhost.exe,7384 , 5152 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926060727.397929+120 , C:\Program Files\Git\cmd\git.exe,2292 , 7384 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/origin/main refs/remotes/origin/main , 20240926060728.342649+120 , C:\Program Files\Git\cmd\git.exe,2292 , 1264 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926060732.183006+120 , C:\Program Files\Git\cmd\git.exe,2292 , 4480 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926060732.189751+120 , C:\Windows\system32\conhost.exe,4480 , 5372 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926060915.742091+120 , C:\Windows\system32\conhost.exe,2164 , 2020 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926060916.096286+120 , C:\Windows\system32\conhost.exe,6592 , 3744 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+python -I c:\Users\lehorla\.vscode\extensions\ms-python.vscode-pylance-2024.9.2\dist\bundled\files\get_pytest_options.py , 20240926060915.942422+120 , None,5156 , 6288 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926060917.819017+120 , None,6288 , 5672 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926060919.460332+120 , C:\Windows\system32\conhost.exe,6536 , 4148 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+CommandLine, Time, Executable, Parent PID, PID, User, Privileges
+None , 20240926061325.124798+120 , None,3084 , 7436 , (None, 2, None) , N/A
+"C:\Program Files\Git\cmd\git.exe" config --get commit.template , 20240926061347.157339+120 , None,2292 , 5640 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main , 20240926061347.169151+120 , C:\Program Files\Git\cmd\git.exe,2292 , 8104 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926061348.275762+120 , C:\Program Files\Git\cmd\git.exe,2292 , 300 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926061348.286196+120 , C:\Windows\system32\conhost.exe,300 , 5152 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926061408.327793+120 , None,4076 , 320 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240926061407.813437+120 , None,656 , 4076 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240926061409.483044+120 , None,628 , 2888 , (None, 2, None) , N/A
+None , 20240926061410.416517+120 , None,3084 , 3596 , (None, 2, None) , N/A
+None , 20240926061410.295765+120 , None,3084 , 4856 , (None, 2, None) , N/A
+None , 20240926061413.961709+120 , None,396 , 3060 , (None, 2, None) , N/A
+None , 20240926061414.749195+120 , None,7516 , 2876 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240926061414.006700+120 , None,656 , 7516 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240926061415.740336+120 , None,628 , 6812 , (None, 2, None) , N/A
+None , 20240926061416.274870+120 , None,6812 , 1324 , (None, 2, None) , N/A
+None , 20240926061416.316280+120 , None,1324 , 2952 , (None, 2, None) , N/A
+None , 20240926061517.140868+120 , None,1324 , 6852 , (None, 2, None) , N/A
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926061614.315598+120 , C:\Windows\system32\conhost.exe,6764 , 3528 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926061614.305964+120 , C:\Program Files\Git\cmd\git.exe,2292 , 6764 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" config --local branch.main.vscode-merge-base , 20240926061615.490004+120 , None,2292 , 3144 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926061618.649131+120 , None,1324 , 7536 , (None, 2, None) , N/A
+None , 20240926061703.027352+120 , None,1620 , 4612 , (None, 2, None) , N/A
+None , 20240926061705.105294+120 , None,396 , 5828 , (None, 2, None) , N/A
+None , 20240926061705.992105+120 , None,764 , 3868 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240926061720.587317+120 , None,1324 , 2916 , (None, 2, None) , N/A
+None , 20240926061746.498053+120 , None,396 , 3768 , (None, 2, None) , N/A
+None , 20240926061748.192746+120 , None,628 , 7600 , (None, 2, None) , N/A
+None , 20240926061748.706073+120 , None,1324 , 7508 , (None, 2, None) , N/A
+None , 20240926061749.888101+120 , None,396 , 5000 , (None, 2, None) , N/A
+None , 20240926061750.687361+120 , None,628 , 6312 , (None, 2, None) , N/A
+None , 20240926061751.332193+120 , None,6312 , 6936 , (None, 2, None) , N/A
+None , 20240926061751.349713+120 , None,6936 , 7500 , (None, 2, None) , N/A
+None , 20240926061852.130345+120 , None,6936 , 1868 , (None, 2, None) , N/A
+C:\Windows\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} , 20240926061910.548808+120 , C:\Windows\system32\DllHost.exe,764 , 1708 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926061925.195799+120 , None,764 , 1144 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240926061953.562172+120 , None,6936 , 4976 , (None, 2, None) , N/A
+None , 20240926062054.878544+120 , None,6936 , 6588 , (None, 2, None) , N/A
+None , 20240926062156.180386+120 , None,6936 , 6768 , (None, 2, None) , N/A
+None , 20240926062257.537820+120 , None,6936 , 7848 , (None, 2, None) , N/A
+"C:\Windows\SystemApps\Microsoft.Windows.SecHealthUI_cw5n1h2txyewy\SecHealthUI.exe" -ServerName:SecHealthUI.AppXep4x2tbtjws1v9qqs0rmb3hxykvkpqtn.mca , 20240926062349.475785+120 , C:\Windows\SystemApps\Microsoft.Windows.SecHealthUI_cw5n1h2txyewy\SecHealthUI.exe,764 , 8132 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+C:\Windows\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} , 20240926062351.655454+120 , C:\Windows\system32\DllHost.exe,764 , 2996 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+C:\Windows\System32\SecurityHealthHost.exe {E041C90B-68BA-42C9-991E-477B73A75C90} -Embedding , 20240926062356.356826+120 , C:\Windows\System32\SecurityHealthHost.exe,764 , 8172 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926062358.972842+120 , None,6936 , 1284 , (None, 2, None) , N/A
+C:\Windows\System32\smartscreen.exe -Embedding , 20240926062400.496373+120 , None,764 , 1876 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+C:\Windows\System32\RuntimeBroker.exe -Embedding , 20240926062406.581280+120 , C:\Windows\System32\RuntimeBroker.exe,764 , 7644 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926062417.001402+120 , None,396 , 3408 , (None, 2, None) , N/A
+None , 20240926062420.821453+120 , None,764 , 6456 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+C:\Windows\System32\SecurityHealthHost.exe {08728914-3F57-4D52-9E31-49DAECA5A80A} -Embedding , 20240926062429.607165+120 , C:\Windows\System32\SecurityHealthHost.exe,764 , 7752 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926062431.289287+120 , None,4708 , 2384 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240926062430.506745+120 , None,656 , 4708 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+"C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca , 20240926062433.287557+120 , None,764 , 3904 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926062435.510194+120 , None,656 , 5028 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+C:\Windows\System32\RuntimeBroker.exe -Embedding , 20240926062435.343637+120 , C:\Windows\System32\RuntimeBroker.exe,764 , 7152 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926062436.294909+120 , None,5028 , 2236 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240926062437.434949+120 , None,7984 , 5892 , (None, 2, None) , N/A
+None , 20240926062437.146244+120 , None,628 , 7984 , (None, 2, None) , N/A
+None , 20240926062438.256853+120 , None,6936 , 3516 , (None, 2, None) , N/A
+None , 20240926062438.215723+120 , None,6936 , 4120 , (None, 2, None) , N/A
+None , 20240926062439.816806+120 , None,656 , 5348 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240926062439.587619+120 , None,396 , 6332 , (None, 2, None) , N/A
+None , 20240926062440.751658+120 , None,628 , 3744 , (None, 2, None) , N/A
+None , 20240926062440.313674+120 , None,5348 , 4936 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240926062441.554413+120 , None,3744 , 3748 , (None, 2, None) , N/A
+None , 20240926062441.560293+120 , None,3748 , 5976 , (None, 2, None) , N/A
+None , 20240926062529.347289+120 , None,396 , 2764 , (None, 2, None) , N/A
+taskhostw.exe , 20240926062529.848689+120 , C:\Windows\system32\taskhostw.exe,396 , 5136 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926062529.808843+120 , None,396 , 7760 , (None, 2, None) , N/A
+None , 20240926062530.292713+120 , None,628 , 4888 , (None, 2, None) , N/A
+"C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca , 20240926062531.304779+120 , C:\Windows\system32\backgroundTaskHost.exe,764 , 3620 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926062532.238074+120 , None,628 , 2720 , (None, 2, None) , N/A
+None , 20240926062532.266400+120 , None,396 , 6692 , (None, 2, None) , N/A
+"BackgroundTransferHost.exe" -ServerName:BackgroundTransferHost.1 , 20240926062532.948739+120 , C:\Windows\system32\BackgroundTransferHost.exe,764 , 6980 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Windows\system32\backgroundTaskHost.exe" -ServerName:CortanaUI.AppX3bn25b6f886wmg6twh46972vprk9tnbf.mca , 20240926062532.848174+120 , C:\Windows\system32\backgroundTaskHost.exe,764 , 7424 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Windows\system32\backgroundTaskHost.exe" -ServerName:ShellFeedsUI.AppXnj65k2d1a1rnztt2t2nng5ctmk3e76pn.mca , 20240926062532.846826+120 , C:\Windows\system32\backgroundTaskHost.exe,764 , 8008 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926062535.711281+120 , None,6692 , 6648 , (None, 2, None) , N/A
+None , 20240926062540.012616+120 , None,764 , 7264 , (None, 2, None) , N/A
+C:\Windows\System32\RuntimeBroker.exe -Embedding , 20240926062541.566310+120 , C:\Windows\System32\RuntimeBroker.exe,764 , 2328 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926062542.143211+120 , None,7264 , 8220 , (None, 2, None) , N/A
+None , 20240926062542.621861+120 , None,3748 , 8252 , (None, 2, None) , N/A
+None , 20240926062544.473340+120 , None,6692 , 8324 , (None, 2, None) , N/A
+C:\Windows\System32\slui.exe -Embedding , 20240926062550.729457+120 , C:\Windows\System32\slui.exe,764 , 8448 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" config --get commit.template , 20240926062558.148919+120 , C:\Program Files\Git\cmd\git.exe,2292 , 8644 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main , 20240926062558.193301+120 , C:\Program Files\Git\cmd\git.exe,2292 , 8652 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926062558.359437+120 , None,8652 , 8660 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926062600.792542+120 , C:\Program Files\Git\cmd\git.exe,2292 , 8844 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926062600.804411+120 , C:\Windows\system32\conhost.exe,8844 , 8852 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+git.exe status -z -uall , 20240926062600.917876+120 , C:\Program Files\Git\mingw64\bin\git.exe,8844 , 8892 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/origin/main refs/remotes/origin/main , 20240926062602.960324+120 , C:\Program Files\Git\cmd\git.exe,2292 , 9064 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926062603.041837+120 , C:\Windows\system32\conhost.exe,9064 , 9072 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Windows\system32\BackgroundTaskHost.exe" -ServerName:BackgroundTaskHost.WebAccountProvider , 20240926062603.947632+120 , C:\Windows\system32\BackgroundTaskHost.exe,764 , 9156 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+C:\Windows\System32\RuntimeBroker.exe -Embedding , 20240926062606.356258+120 , C:\Windows\System32\RuntimeBroker.exe,764 , 8252 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926062608.486289+120 , C:\Program Files\Git\cmd\git.exe,2292 , 5340 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926062608.494051+120 , C:\Windows\system32\conhost.exe,5340 , 6260 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926062618.784738+120 , None,8324 , 8912 , (None, 2, None) , N/A
+None , 20240926062628.738645+120 , None,628 , 1168 , (None, 2, None) , N/A
+None , 20240926062629.563663+120 , None,396 , 8276 , (None, 2, None) , N/A
+None , 20240926062634.649264+120 , None,764 , 8224 , (None, 2, None) , N/A
+None , 20240926062635.446759+120 , None,764 , 8588 , (None, 2, None) , N/A
+rundll32 C:\Windows\system32\GeneralTel.dll,RunInUserCxt HZ5cG2YGMkKgzt/l.1.1.2 {A9240423-09C1-4BEA-93A9-260C17FF7FEF} {9FFA5E4C-8790-1371-7216-2ED042FC24DF} IsAdmin WAMAccountCount , 20240926062642.743061+120 , C:\Windows\system32\rundll32.exe,8912 , 8284 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926062644.198387+120 , None,3748 , 8832 , (None, 2, None) , N/A
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926062703.259860+120 , None,4776 , 304 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" rev-parse refs/remotes/origin/main , 20240926062703.191146+120 , C:\Program Files\Git\cmd\git.exe,2292 , 4776 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+git.exe rev-parse refs/remotes/origin/main , 20240926062703.651301+120 , C:\Program Files\Git\mingw64\bin\git.exe,4776 , 8516 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926062705.976936+120 , C:\Windows\system32\conhost.exe,8088 , 7236 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926062705.861439+120 , C:\Program Files\Git\cmd\git.exe,2292 , 8088 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+git.exe status -z -uall , 20240926062706.103139+120 , C:\Program Files\Git\mingw64\bin\git.exe,8088 , 8472 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926062711.481845+120 , None,628 , 8752 , (None, 2, None) , N/A
+None , 20240926062712.027426+120 , None,764 , 8288 , (None, 2, None) , N/A
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926062716.196306+120 , C:\Program Files\Git\cmd\git.exe,2292 , 3880 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926062716.239883+120 , C:\Windows\system32\conhost.exe,3880 , 7960 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main , 20240926062722.676384+120 , C:\Program Files\Git\cmd\git.exe,2292 , 4792 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+git.exe status -z -uall , 20240926062724.959894+120 , C:\Program Files\Git\mingw64\bin\git.exe,6460 , 1260 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926062746.168098+120 , None,3748 , 8692 , (None, 2, None) , N/A
+"C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca , 20240926062758.194133+120 , C:\Windows\system32\backgroundTaskHost.exe,764 , 620 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926062807.118363+120 , None,656 , 7160 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+"C:\Windows\system32\BackgroundTaskHost.exe" -ServerName:BackgroundTaskHost.WebAccountProvider , 20240926062818.018041+120 , C:\Windows\system32\BackgroundTaskHost.exe,764 , 9020 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926062821.069176+120 , None,656 , 2760 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240926062824.315966+120 , None,628 , 1700 , (None, 2, None) , N/A
+C:\Windows\System32\RuntimeBroker.exe -Embedding , 20240926062828.339459+120 , C:\Windows\System32\RuntimeBroker.exe,764 , 580 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+C:\Windows\System32\RuntimeBroker.exe -Embedding , 20240926062830.070182+120 , C:\Windows\System32\RuntimeBroker.exe,764 , 8392 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+None , 20240926062834.676560+120 , None,656 , 5052 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+None , 20240926062846.021805+120 , None,656 , 8384 , ('DESKTOP-JCMNI29', 0, 'lehorla') , N/A
+"C:\Program Files\Git\cmd\git.exe" for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main , 20240926062849.442388+120 , C:\Program Files\Git\cmd\git.exe,2292 , 3348 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926062849.582862+120 , C:\Windows\system32\conhost.exe,8420 , 6320 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+\??\C:\Windows\system32\conhost.exe 0x4 , 20240926062851.695906+120 , C:\Windows\system32\conhost.exe,3344 , 2688 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+"C:\Program Files\Git\cmd\git.exe" status -z -uall , 20240926062851.639895+120 , C:\Program Files\Git\cmd\git.exe,2292 , 3344 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+git.exe status -z -uall , 20240926062851.945250+120 , C:\Program Files\Git\mingw64\bin\git.exe,3344 , 8360 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
+git.exe for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main , 20240926062854.125208+120 , None,8276 , 1304 , ('DESKTOP-JCMNI29', 0, 'lehorla') , SeChangeNotifyPrivilege|
